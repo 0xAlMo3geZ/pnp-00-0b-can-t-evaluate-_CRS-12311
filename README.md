@@ -8,4 +8,5 @@ f you wanna just have a beautiful blank screen before your login screen
 follow these steps 👇
 
 ** Ubuntu 22.04 **
+
 ![alt text](https://pbs.twimg.com/media/Fen1oraXwAAKbSF?format=png&name=900x900)
