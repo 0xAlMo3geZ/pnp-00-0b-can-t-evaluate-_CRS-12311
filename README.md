@@ -12,10 +12,13 @@ follow these steps 👇
 ![alt text](https://pbs.twimg.com/media/Fen1oraXwAAKbSF?format=png&name=900x900)
 
 1- sudo nano /etc/default/grub
+
 2- change these two lines to :
 GRUB_CMDLINE_LINUX_DEFAULT="loglevel=0"
 GRUB_CMDLINE_LINUX="console=tty12"
+
 3- sudo update-grub
+
 4- Reboot
 
 and there ya have it!
